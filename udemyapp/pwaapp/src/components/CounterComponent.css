@@ -1,0 +1,17 @@
+h1{
+    display: inline-block;
+    font-size: 2rem;
+    margin: 0px 2rem;
+    font-weight: bold;
+    color: #61dafb;
+  }
+  
+  button{
+    border-radius: 100%;
+    font-size: 2rem;
+    width: 5rem;
+    height: 5rem;
+    cursor: pointer;
+
+    margin: 1rem;
+  }
